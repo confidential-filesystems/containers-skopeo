@@ -1,7 +1,7 @@
 //go:build !windows
 // +build !windows
 
-package main
+package cli
 
 /*
   This code is currently only intended to be used by ostree

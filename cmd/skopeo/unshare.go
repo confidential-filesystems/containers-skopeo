@@ -1,7 +1,7 @@
 //go:build !linux
 // +build !linux
 
-package main
+package cli
 
 func reexecIfNecessaryForImages(inputImageNames ...string) error {
 	return nil
